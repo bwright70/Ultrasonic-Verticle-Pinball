@@ -19,7 +19,7 @@ This was first on our to do list when we first planned out this project. We want
 
 ### Diagrams 
 
-
+[Diagram One](Photos/Screenshot%202021-02-11%20at%203.44.58%20PM.png)
 
 ### Images 
 
