@@ -19,8 +19,6 @@ This was first on our to do list when we first planned out this project. We want
 
 ### Diagrams 
 
-[Diagram One](Photos/Screenshot%202021-02-11%20at%203.44.58%20PM.png)
-
 ### Images 
 
 
@@ -30,9 +28,16 @@ This was first on our to do list when we first planned out this project. We want
 
 ### Description 
 
+The candy functions as a prize for winning the game. Your score determines the amount of candy you get, or how long the servo operated trapdoor will remain open. 
+
 ### Process
 
+We first sketched out a quick diagram to get an idea for the plan and demensions of the dispenser. 
+
 ### Diagrams 
+
+Our sketches :
+
 
 ### Images 
 
