@@ -2,6 +2,8 @@
  
 ## Table of Contents 
 * [Basic Onshape Design](#BasicOnshapeDesign)
+* [Candy Despenser](#CandyDespenser)
+* [Scoring Code](#ScoringCode)
 
 ---
 
