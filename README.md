@@ -8,15 +8,19 @@
 ---
 ## Important Links
 Our google doc:
+
 https://docs.google.com/document/d/1TA_9WrA0F9Z6xXhp9BvIn8aGqwSHfH74XpkMvyFv2LM/edit
 
 Our onshape document:
+
 https://cvilleschools.onshape.com/documents/721ab8d6fc612b3ebe288890/w/96b0925b53077712cb29c698/e/4148ccb3f22a86a659c6ac1a?aa=true
 
 Our jamboard/Sketches:
+
 https://jamboard.google.com/d/13NjuDtLQfgviIAU7torhaJOaqLBc8eHyzzhvuv4Cx6M/viewer?f=1
 
 Scoring Code:
+
 https://create.arduino.cc/editor/benwyattwright/ce94ddca-34b2-4209-bf72-f6166e1544d7/preview
 
 ## Basic Onshape Design 
