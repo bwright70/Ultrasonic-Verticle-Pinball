@@ -21,7 +21,7 @@ https://jamboard.google.com/d/13NjuDtLQfgviIAU7torhaJOaqLBc8eHyzzhvuv4Cx6M/viewe
 
 Scoring Code:
 
-https://create.arduino.cc/editor/benwyattwright/ce94ddca-34b2-4209-bf72-f6166e1544d7/preview
+https://create.arduino.cc/editor/benwyattwright/2b13edd5-2c66-4b77-807c-37921331ae3a/preview
 
 ## Basic Onshape Design 
 
