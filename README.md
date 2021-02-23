@@ -38,7 +38,7 @@ This was first on our to do list when we first planned out this project. We want
 * [Basic Design, and spring diagram](Photos/Screenshot%202021-02-11%20at%203.44.58%20PM.png)
 * [Spring design](Photos/Screenshot%202021-02-11%20at%203.46.49%20PM.png)
 * [Candy Dispenser Design](Photos/Screenshot%202021-02-11%20at%203.46.57%20PM.png)
-* [Main Veritcal Pinball Design](Photos/Screenshot%202021-02-11%20at%203.47.06%20PM.png)
+* [Main Vertical Pinball Design](Photos/Screenshot%202021-02-11%20at%203.47.06%20PM.png)
 * [Dimensions](Photos/Screenshot%202021-02-11%20at%203.47.17%20PM.png)
 
 ### Images 
