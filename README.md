@@ -59,6 +59,7 @@ We first sketched out a quick diagram to get an idea for the plan and demensions
 ### Diagrams 
 
 Our sketches :
+[Candy Dispenser Design](Photos/Screenshot%202021-02-11%20at%203.46.57%20PM.png)
 
 
 ### Images 
