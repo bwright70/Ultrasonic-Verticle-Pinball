@@ -70,9 +70,79 @@ Our sketches :
 
 ### Description 
 
+The Code that opens the candy despensor latch when the ball passes through a scoring zone 
+
 ### Process
 
+Originally we were going to use three sensors and each one triggers the latch separately, but we changed the code to only use one sensor that triggers the latch at different distances. This code is basically just recycled Hello_Functions code with a few variables changed 
+
 ### Diagrams 
+
+(This is not the final code)
+
+```C++
+
+#include <Servo.h>
+#define echoPin 2
+#define trigPin 3
+
+Servo myServo;
+
+int servoPin = 12;
+int loopDistance = 0;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+  Serial.println("Ultrasonic Sensor HC-SR04 Test");
+  myServo.attach(servoPin);
+}
+
+void loop() {
+  loopDistance = getdis();
+  Serial.print("Distance: ");
+  Serial.print(loopDistance);
+  Serial.println(" cm");
+
+  if ((loopDistance <= 4)) {
+    scoreOne();
+  }
+  else if ((loopDistance >= 5) && (loopDistance <= 9)) {
+    scoreTwo();
+  }
+  else if ((loopDistance >= 10) && (loopDistance <= 20)) {
+    scoreOne();
+  }
+  else {
+    stopServo();
+  }
+}
+int getdis() {
+  long duration;
+  int distance;
+
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+
+  duration = pulseIn(echoPin, HIGH);
+
+  distance = duration * 0.034 / 2; // Speed of sound wave divided by 2 (go and back)
+  return distance;
+}
+void stopServo() {
+  myServo.write(89);
+}
+void scoreOne() {
+  myServo.write(40);
+}
+void scoreTwo() {
+  myServo.write(99);
+}
+```
 
 ### Images 
 
