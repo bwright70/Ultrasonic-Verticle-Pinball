@@ -46,9 +46,9 @@ This was first on our to do list when we first planned out this project. We want
 ---
 ## Spring
 
-## Desciption
+### Desciption
+
 We learned how to make a dummy spring on onshape to be a placeholder during virtual assembly. 
----
 
 ## Candy Dispenser 
 
